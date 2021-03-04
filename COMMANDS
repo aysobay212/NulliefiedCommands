@@ -1,0 +1,70 @@
+**VERSION 0.1 HAS BEEN RELEASED**
+BOT INVITE LINK : https://discord.com/api/oauth2/authorize?client_id=815039994988068944&permissions=8&scope=bot
+
+Version 0.1 has been finally released!
+
+Bot created by: @Adam7100#7825 and aysob_ay212#7626  
+
+
+**Current Commands: **
+
+Moderation Commands:
+!snipe (Shows the last deleted message in the server)
+!clear {count} {@member} (deletion from certain member feature is undone)
+!kick {@member} {reason} (kicks the specified member from the server)
+!ban {@member} {reason} (bans the specified member from the server)
+!mute {@member} (UNDONE)
+!settings (shows the servers settings)
+!setting {setting} {value} (changes {setting} to {value} (type !settings to see all settings) )
+!unban {NAME#DISCRIMINATOR} (unbans the specified member)
+!ticket (creates a ticket)
+!closeticket (closes the ticket)
+
+
+
+Miscellaneous Commands:
+!canvas (UNDONE)
+!nuke (deletes all the messages in the current channel)
+!sadquote (shows a sad quote)
+!darkjoke (sends a dark joke)
+!avatar {@member} (shows {@member}'s profile picture)
+!leaderboard or !lb (shows the server's leaderboard)
+!ping (shows the bot's ping)
+!rank {@member} (UNDONE shows {@member}'s rank)
+
+Dev Only Commands!:
+!exitbot (DEVELOPERS CAN USE)
+!reload (DEVELOPERS CAN USE)
+!inspire (sends an inspiring quote)
+!hack {@member} (shows the member's "email and password")
+!ppsize {@member} (shows {@member}'s ppsize)
+
+
+
+NSFW Commands:
+!boobies (NSFW ONLY)
+!butt (NSFW ONLY)
+
+
+
+
+
+Commands in the works:
+!invites {@member} (UNDONE)
+
+
+
+**MORE COMING SOON!!!!**
+
+**Current Features:**
+Ranking System
+Welcome / Leave Messages (Pictures coming soon!!)
+Custom settings containing (prefix, welcome channel, xp on message, etc...)
+**MORE COMING SOON!!!!**
+
+**Current To-Do list: **
+show picture when people join / leave
+show rank image
+make UI better for the leaderboard
+add reaction roles
+add more features!
