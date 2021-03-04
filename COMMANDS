@@ -31,13 +31,16 @@ Miscellaneous Commands:
 !leaderboard or !lb (shows the server's leaderboard)
 !ping (shows the bot's ping)
 !rank {@member} (UNDONE shows {@member}'s rank)
+!inspire (sends an inspiring quote)
+!hack {@member} (shows the member's "email and password")
+!ppsize {@member} (shows {@member}'s ppsize)
+
+
+
 
 Dev Only Commands!:
 !exitbot (DEVELOPERS CAN USE)
 !reload (DEVELOPERS CAN USE)
-!inspire (sends an inspiring quote)
-!hack {@member} (shows the member's "email and password")
-!ppsize {@member} (shows {@member}'s ppsize)
 
 
 
