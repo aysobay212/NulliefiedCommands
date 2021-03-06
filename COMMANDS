@@ -6,6 +6,20 @@ Version 0.1 has been finally released!
 Bot created by: @Adam7100#7825 and aysob_ay212#7626  
 
 
+**Current Settings: **
+welcome_message : arguments: message (<SERVERNAME> will be replaced with the server's name <USERNAME> will mention the member and <MEMBERCOUNT> will show the server member count)
+leave_message: arguments: message (Same as welcome_message)
+member_log: arguments: channel (Will send member leave / member join messages in that channel)
+xp_on_message: arguments: value (will change the xp given on message 1-50 default 5)
+initial_xp: arguments: value (will change xp given to new members 0-100 default 0)
+level_multiplier: arguments: value (will change the xp multiplier on each level up default 1.5 0-10)
+rankup_message: arguments: message (<USERNAME> will mention the member and <LEVEL> will be replaced with the new member's rank)
+ranking_system: arguments: value (on / off)
+welcome_messages: arguments: value (on / off will enable the welcome / leave messages)
+prefix: arguments: value (length of prefix must be <= 2)
+Change settings using the setting (setting) (value) command!
+ 
+
 **Current Commands: **
 
 Moderation Commands:
@@ -23,7 +37,6 @@ Moderation Commands:
 
 
 Miscellaneous Commands:
-!canvas (UNDONE)
 !nuke (deletes all the messages in the current channel)
 !sadquote (shows a sad quote)
 !darkjoke (sends a dark joke)
@@ -54,13 +67,14 @@ NSFW Commands:
 
 Commands in the works:
 !invites {@member} (UNDONE)
-
+!canvas (UNDONE)
 
 
 **MORE COMING SOON!!!!**
 
 **Current Features:**
 Ranking System
+Reaction Roles System
 Welcome / Leave Messages (Pictures coming soon!!)
 Custom settings containing (prefix, welcome channel, xp on message, etc...)
 **MORE COMING SOON!!!!**
@@ -69,5 +83,4 @@ Custom settings containing (prefix, welcome channel, xp on message, etc...)
 show picture when people join / leave
 show rank image
 make UI better for the leaderboard
-add reaction roles
 add more features!
