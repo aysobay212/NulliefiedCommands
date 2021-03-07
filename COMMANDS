@@ -16,6 +16,7 @@ level_multiplier: arguments: value (will change the xp multiplier on each level 
 rankup_message: arguments: message (<USERNAME> will mention the member and <LEVEL> will be replaced with the new member's rank)
 ranking_system: arguments: value (on / off)
 welcome_messages: arguments: value (on / off will enable the welcome / leave messages)
+swearing: arguments: value (on/ off will enable swearing) (UNDONE)
 prefix: arguments: value (length of prefix must be <= 2)
 Change settings using the setting (setting) (value) command!
  
@@ -77,6 +78,7 @@ Ranking System
 Reaction Roles System
 Welcome / Leave Messages (Pictures coming soon!!)
 Custom settings containing (prefix, welcome channel, xp on message, etc...)
+Anti-Swearing (Undone)
 **MORE COMING SOON!!!!**
 
 **Current To-Do list: **
