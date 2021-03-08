@@ -35,6 +35,7 @@ Moderation Commands:
 !reactionrole {channel} {message id} {role} {emoji} {remove role on reaction role (on/off)} (will create a reaction role for the message id specified)
 !removereactionrole {message_id} {emoji} (will remove the reactionrole)
 !mute {@member} {time (time(day/seconds/minutes)) / "perm"} {reason (optional)} (will mute the member)
+!ban {@member} {time (time(day/seconds/minutes)) / "perm"} {reason (optional)} (will ban the member)
 !unmute {@member} {reason (optional)} (unmutes the member)
 !ticket (creates a ticket)
 !closeticket (closes the ticket)
