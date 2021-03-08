@@ -34,7 +34,7 @@ Moderation Commands:
 !unban {NAME#DISCRIMINATOR} (unbans the specified member)
 !reactionrole {channel} {message id} {role} {emoji} {remove role on reaction role (on/off)} (will create a reaction role for the message id specified)
 !removereactionrole {message_id} {emoji} (will remove the reactionrole)
-!mute {@member} {time (time(day/seconds/minutes))} {reason (optional)} (will mute the member)
+!mute {@member} {time (time(day/seconds/minutes)) / "perm"} {reason (optional)} (will mute the member)
 !unmute {@member} {reason (optional)} (unmutes the member)
 !ticket (creates a ticket)
 !closeticket (closes the ticket)
