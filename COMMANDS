@@ -36,6 +36,8 @@ Moderation Commands:
 !removereactionrole {message_id} {emoji} (will remove the reactionrole)
 !mute {@member} {time (time(day/seconds/minutes)) / "perm"} {reason (optional)} (will mute the member)
 !ban {@member} {time (time(day/seconds/minutes)) / "perm"} {reason (optional)} (will ban the member)
+!giveaway (starts a giveaway)
+!quickgiveaway {winners} {time (example: 5s|m|h|d)} {prize} (aliases=qgiveaway)
 !unmute {@member} {reason (optional)} (unmutes the member)
 !ticket (creates a ticket)
 !closeticket (closes the ticket)
