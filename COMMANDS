@@ -51,7 +51,7 @@ Miscellaneous Commands:
 !avatar {@member} (shows {@member}'s profile picture)
 !leaderboard or !lb (shows the server's leaderboard)
 !ping (shows the bot's ping)
-!rank {@member} (UNDONE shows {@member}'s rank)
+!rank {@member} (shows {@member}'s rank)
 !inspire (sends an inspiring quote)
 !hack {@member} (shows the member's "email and password")
 !ppsize {@member} (shows {@member}'s ppsize)
