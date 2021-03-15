@@ -27,7 +27,7 @@
 
 ## Current Commands:
 
-## Moderation Commands:
+# Moderation Commands:
 - snipe (Shows the last deleted message in the server)
 - clear {count} {@member} (deletion from certain member feature is undone)
 - kick {@member} {reason} (kicks the specified member from the server)
@@ -50,7 +50,7 @@
 <br />
 
 
-## Miscellaneous Commands:
+# Miscellaneous Commands:
 - nuke (deletes all the messages in the current channel)
 - sadquote (shows a sad quote)
 - darkjoke (sends a dark joke)
@@ -66,7 +66,7 @@
 <br />
 
 
-## Dev Only Commands!:
+# Dev Only Commands!:
 - exitbot (DEVELOPERS CAN USE)
 - reload (DEVELOPERS CAN USE)
 
@@ -74,7 +74,7 @@
 <br />
 
 
-## NSFW Commands:
+# NSFW Commands:
 - boobies (NSFW ONLY)
 - butt (NSFW ONLY)
 
@@ -82,12 +82,12 @@
 <br />
 
 
-## Commands in the works:
+# Commands in the works:
 - invites {@member} (UNDONE)
 - canvas (UNDONE)
 
 
-## MORE COMING SOON!!!!
+# MORE COMING SOON!!!!
 
 <br />
 
