@@ -1,13 +1,11 @@
 # VERSION 0.1 HAS BEEN RELEASED
+
 ## BOT INVITE LINK : https://discord.com/api/oauth2/authorize?client_id=815039994988068944&permissions=8&scope=bot
-
-## Version 0.1 has been finally released!
-
 ## Bot created by: adam7100#7825 and aysob_ay212#7626  
 
 <br />
 
-## Current Settings:
+# Current Settings:
 - welcome_message : arguments: message (<SERVERNAME> will be replaced with the server's name <USERNAME> will mention the member and <MEMBERCOUNT> will show the server member count)
 - leave_message: arguments: message (Same as welcome_message)
 - member_log: arguments: channel (Will send member leave / member join messages in that channel)
