@@ -1,96 +1,102 @@
-## VERSION 0.1 HAS BEEN RELEASED
-BOT INVITE LINK : https://discord.com/api/oauth2/authorize?client_id=815039994988068944&permissions=8&scope=bot
+### VERSION 0.1 HAS BEEN RELEASED
+## BOT INVITE LINK : https://discord.com/api/oauth2/authorize?client_id=815039994988068944&permissions=8&scope=bot
 
-Version 0.1 has been finally released!
+## Version 0.1 has been finally released!
 
-Bot created by: @Adam7100#7825 and aysob_ay212#7626  
+## Bot created by: @Adam7100#7825 and aysob_ay212#7626  
 
+<br />
 
-**Current Settings: **
-welcome_message : arguments: message (<SERVERNAME> will be replaced with the server's name <USERNAME> will mention the member and <MEMBERCOUNT> will show the server member count)
-leave_message: arguments: message (Same as welcome_message)
-member_log: arguments: channel (Will send member leave / member join messages in that channel)
-xp_on_message: arguments: value (will change the xp given on message 1-50 default 5)
-initial_xp: arguments: value (will change xp given to new members 0-100 default 0)
-level_multiplier: arguments: value (will change the xp multiplier on each level up default 1.5 0-10)
-rankup_message: arguments: message (<USERNAME> will mention the member and <LEVEL> will be replaced with the new member's rank)
-ranking_system: arguments: value (on / off)
-welcome_messages: arguments: value (on / off will enable the welcome / leave messages)
-swearing: arguments: value (on/ off will enable swearing) (UNDONE)
-prefix: arguments: value (length of prefix must be <= 2)
-Change settings using the setting (setting) (value) command!
+## Current Settings:
+- welcome_message : arguments: message (<SERVERNAME> will be replaced with the server's name <USERNAME> will mention the member and <MEMBERCOUNT> will show the server member count)
+- leave_message: arguments: message (Same as welcome_message)
+- member_log: arguments: channel (Will send member leave / member join messages in that channel)
+- xp_on_message: arguments: value (will change the xp given on message 1-50 default 5)
+- initial_xp: arguments: value (will change xp given to new members 0-100 default 0)
+- level_multiplier: arguments: value (will change the xp multiplier on each level up default 1.5 0-10)
+- rankup_message: arguments: message (<USERNAME> will mention the member and <LEVEL> will be replaced with the new member's rank)
+- ranking_system: arguments: value (on / off)
+- welcome_messages: arguments: value (on / off will enable the welcome / leave messages)
+- swearing: arguments: value (on/ off will enable swearing) (UNDONE)
+- prefix: arguments: value (length of prefix must be <= 2)
+- Change settings using the setting (setting) (value) command!
+ 
+ 
+ <br />
  
 
-**Current Commands: **
+## Current Commands:
 
-Moderation Commands:
-!snipe (Shows the last deleted message in the server)
-!clear {count} {@member} (deletion from certain member feature is undone)
-!kick {@member} {reason} (kicks the specified member from the server)
-!ban {@member} {reason} (bans the specified member from the server)
-!mute {@member} (UNDONE)
-!settings (shows the servers settings)
-!setting {setting} {value} (changes {setting} to {value} (type !settings to see all settings) )
-!unban {NAME#DISCRIMINATOR} (unbans the specified member)
-!reactionrole {channel} {message id} {role} {emoji} {remove role on reaction role (on/off)} (will create a reaction role for the message id specified)
-!removereactionrole {message_id} {emoji} (will remove the reactionrole)
-!mute {@member} {time (time(day/seconds/minutes)) / "perm"} {reason (optional)} (will mute the member)
-!ban {@member} {time (time(day/seconds/minutes)) / "perm"} {reason (optional)} (will ban the member)
-!giveaway (starts a giveaway)
-!quickgiveaway {winners} {time (example: 5s|m|h|d)} {prize} (aliases=qgiveaway)
-!unmute {@member} {reason (optional)} (unmutes the member)
-!ticket (creates a ticket)
-!closeticket (closes the ticket)
-
-
-
-Miscellaneous Commands:
-!nuke (deletes all the messages in the current channel)
-!sadquote (shows a sad quote)
-!darkjoke (sends a dark joke)
-!avatar {@member} (shows {@member}'s profile picture)
-!leaderboard or !lb (shows the server's leaderboard)
-!ping (shows the bot's ping)
-!rank {@member} (shows {@member}'s rank)
-!inspire (sends an inspiring quote)
-!hack {@member} (shows the member's "email and password")
-!ppsize {@member} (shows {@member}'s ppsize)
+## Moderation Commands:
+- snipe (Shows the last deleted message in the server)
+- clear {count} {@member} (deletion from certain member feature is undone)
+- kick {@member} {reason} (kicks the specified member from the server)
+- ban {@member} {reason} (bans the specified member from the server)
+- mute {@member} (UNDONE)
+- settings (shows the servers settings)
+- setting {setting} {value} (changes {setting} to {value} (type !settings to see all settings) )
+- unban {NAME#DISCRIMINATOR} (unbans the specified member)
+- reactionrole {channel} {message id} {role} {emoji} {remove role on reaction role (on/off)} (will create a reaction role for the message id specified)
+- removereactionrole {message_id} {emoji} (will remove the reactionrole)
+- mute {@member} {time (time(day/seconds/minutes)) / "perm"} {reason (optional)} (will mute the member)
+- ban {@member} {time (time(day/seconds/minutes)) / "perm"} {reason (optional)} (will ban the member)
+- giveaway (starts a giveaway)
+- quickgiveaway {winners} {time (example: 5s|m|h|d)} {prize} (aliases=qgiveaway)
+- unmute {@member} {reason (optional)} (unmutes the member)
+- ticket (creates a ticket)
+- closeticket (closes the ticket)
 
 
+<br />
 
 
-Dev Only Commands!:
-!exitbot (DEVELOPERS CAN USE)
-!reload (DEVELOPERS CAN USE)
+## Miscellaneous Commands:
+- nuke (deletes all the messages in the current channel)
+- sadquote (shows a sad quote)
+- darkjoke (sends a dark joke)
+- avatar {@member} (shows {@member}'s profile picture)
+- leaderboard or lb (shows the server's leaderboard)
+- ping (shows the bot's ping)
+- rank {@member} (shows {@member}'s rank)
+- inspire (sends an inspiring quote)
+- hack {@member} (shows the member's "email and password")
+- ppsize {@member} (shows {@member}'s ppsize)
 
 
-
-NSFW Commands:
-!boobies (NSFW ONLY)
-!butt (NSFW ONLY)
+<br />
 
 
+## Dev Only Commands!:
+- exitbot (DEVELOPERS CAN USE)
+- reload (DEVELOPERS CAN USE)
 
 
-
-Commands in the works:
-!invites {@member} (UNDONE)
-!canvas (UNDONE)
+<br />
 
 
-**MORE COMING SOON!!!!**
+## NSFW Commands:
+- boobies (NSFW ONLY)
+- butt (NSFW ONLY)
 
-**Current Features:**
-Chat Experience System
-Reaction Roles System
-Welcome / Leave Messages (Pictures coming soon!!)
-Custom settings containing (prefix, welcome channel, xp on message, etc...)
-Muting System
-Anti-Swearing
-**MORE COMING SOON!!!!**
 
-**Current To-Do list: **
-show picture when people join / leave
-show rank image
-make UI better for the leaderboard
-add more features!
+<br />
+
+
+## Commands in the works:
+- invites {@member} (UNDONE)
+- canvas (UNDONE)
+
+
+## MORE COMING SOON!!!!
+
+<br />
+
+## Current Features:
+- Chat Experience System
+- Reaction Roles System
+- Welcome / Leave Messages (Pictures coming soon!!)
+- Custom settings containing (prefix, welcome channel, xp on message, etc...)
+- Muting System
+- Anti-Swearing
+
+# More features coming soon!
