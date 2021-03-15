@@ -1,4 +1,4 @@
-### VERSION 0.1 HAS BEEN RELEASED
+# VERSION 0.1 HAS BEEN RELEASED
 ## BOT INVITE LINK : https://discord.com/api/oauth2/authorize?client_id=815039994988068944&permissions=8&scope=bot
 
 ## Version 0.1 has been finally released!
@@ -25,9 +25,9 @@
  <br />
  
 
-## Current Commands:
+# Current Commands:
 
-# Moderation Commands:
+## Moderation Commands:
 - snipe (Shows the last deleted message in the server)
 - clear {count} {@member} (deletion from certain member feature is undone)
 - kick {@member} {reason} (kicks the specified member from the server)
@@ -50,7 +50,7 @@
 <br />
 
 
-# Miscellaneous Commands:
+## Miscellaneous Commands:
 - nuke (deletes all the messages in the current channel)
 - sadquote (shows a sad quote)
 - darkjoke (sends a dark joke)
@@ -66,7 +66,7 @@
 <br />
 
 
-# Dev Only Commands!:
+## Dev Only Commands!:
 - exitbot (DEVELOPERS CAN USE)
 - reload (DEVELOPERS CAN USE)
 
@@ -74,7 +74,7 @@
 <br />
 
 
-# NSFW Commands:
+## NSFW Commands:
 - boobies (NSFW ONLY)
 - butt (NSFW ONLY)
 
@@ -82,16 +82,16 @@
 <br />
 
 
-# Commands in the works:
+## Commands in the works:
 - invites {@member} (UNDONE)
 - canvas (UNDONE)
 
 
-# MORE COMING SOON!!!!
+## MORE COMING SOON!!!!
 
 <br />
 
-## Current Features:
+# Current Features:
 - Chat Experience System
 - Reaction Roles System
 - Welcome / Leave Messages (Pictures coming soon!!)
@@ -99,4 +99,4 @@
 - Muting System
 - Anti-Swearing
 
-# More features coming soon!
+## More features coming soon!
