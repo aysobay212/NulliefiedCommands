@@ -3,7 +3,7 @@
 
 ## Version 0.1 has been finally released!
 
-## Bot created by: @Adam7100#7825 and aysob_ay212#7626  
+## Bot created by: adam7100#7825 and aysob_ay212#7626  
 
 <br />
 
