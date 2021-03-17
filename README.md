@@ -15,7 +15,8 @@
 - rankup_message: arguments: message (<USERNAME> will mention the member and <LEVEL> will be replaced with the new member's rank)
 - ranking_system: arguments: value (on / off)
 - welcome_messages: arguments: value (on / off will enable the welcome / leave messages)
-- swearing: arguments: value (on/ off will enable swearing) (UNDONE)
+- swearing: arguments: value (on/ off will enable swearing)
+- economy: arguments: value (on / off will enable / disable economy system)
 - prefix: arguments: value (length of prefix must be <= 2)
 - Change settings using the setting (setting) (value) command!
  
@@ -27,7 +28,7 @@
 
 ## Moderation Commands:
 - snipe (Shows the last deleted message in the server)
-- clear {count} {@member} (deletion from certain member feature is undone)
+- clear {count} {@member} (deletion from certain member feature is UNDONE)
 - kick {@member} {reason} (kicks the specified member from the server)
 - ban {@member} {reason} (bans the specified member from the server)
 - mute {@member} (UNDONE)
@@ -39,10 +40,25 @@
 - mute {@member} {time (time(day/seconds/minutes)) / "perm"} {reason (optional)} (will mute the member)
 - ban {@member} {time (time(day/seconds/minutes)) / "perm"} {reason (optional)} (will ban the member)
 - giveaway (starts a giveaway)
+- reactionroles (shows all the reaction roles in the current guild)
 - quickgiveaway {winners} {time (example: 5s|m|h|d)} {prize} (aliases=qgiveaway)
 - unmute {@member} {reason (optional)} (unmutes the member)
 - ticket (creates a ticket)
 - closeticket (closes the ticket)
+
+
+<br />
+
+
+## Music Commands:
+- play {URL / QUERY} (adds song to queue / plays it)
+- queue (shows the current queue)
+- nowplaying (aliases (np) shows the currently playing song)
+- queue remove {index} (removes index from queue)
+- disconnect (disconnects the bot from the channel)
+- stop (pauses the currently playing song)
+- skip (skips to the next song in the queue)
+- volume {volume 1-100} (UNDONE)
 
 
 <br />
@@ -59,12 +75,14 @@
 - inspire (sends an inspiring quote)
 - hack {@member} (shows the member's "email and password")
 - ppsize {@member} (shows {@member}'s ppsize)
+- status (shows the current bot status)
 
 
 <br />
 
 
 ## Dev Only Commands!:
+- unload (DEVELOPERS CAN USE)
 - exitbot (DEVELOPERS CAN USE)
 - reload (DEVELOPERS CAN USE)
 
@@ -83,6 +101,11 @@
 ## Commands in the works:
 - invites {@member} (UNDONE)
 - canvas (UNDONE)
+- warn (UNDONE, need option to remove warns)
+
+
+## Known Bugs:
+- Moving the bot too quickly while a song is playing will break the bot.
 
 
 ## MORE COMING SOON!!!!
@@ -96,5 +119,9 @@
 - Custom settings containing (prefix, welcome channel, xp on message, etc...)
 - Muting System
 - Anti-Swearing
+- Warning System
+- Banning System
+- Economy System
+- Music System
 
 ## More features coming soon!
