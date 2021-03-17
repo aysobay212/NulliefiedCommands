@@ -1,4 +1,4 @@
-# VERSION 0.1 HAS BEEN RELEASED
+# VERSION 0.2 HAS BEEN RELEASED
 
 ## BOT INVITE LINK : https://discord.com/api/oauth2/authorize?client_id=815039994988068944&permissions=8&scope=bot
 ## Bot created by: adam7100#7825 and aysob_ay212#7626  
@@ -30,8 +30,8 @@
 - snipe (Shows the last deleted message in the server)
 - clear {count} {@member} (deletion from certain member feature is UNDONE)
 - kick {@member} {reason} (kicks the specified member from the server)
-- ban {@member} {reason} (bans the specified member from the server)
-- mute {@member} (UNDONE)
+- ban {@member} {time (example: 5s|m|h|d) / "perm"} {reason} (bans the specified member from the server for the specified time.)
+- mute {@member} {time (example: 5s|m|h|d) / "perm"} {reason} (mutes the member for the specified time)
 - settings (shows the servers settings)
 - setting {setting} {value} (changes {setting} to {value} (type !settings to see all settings) )
 - unban {NAME#DISCRIMINATOR} (unbans the specified member)
