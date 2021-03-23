@@ -28,7 +28,7 @@
 
 ## Moderation Commands:
 - snipe (Shows the last deleted message in the server)
-- clear {count} {@member} (deletion from certain member feature is UNDONE)
+- clear \[count\] \[@member\] (clears amount of messages)
 - kick {@member} {reason} (kicks the specified member from the server)
 - ban {@member} {time (example: 5s|m|h|d) / "perm"} {reason} (bans the specified member from the server for the specified time.)
 - mute {@member} {time (example: 5s|m|h|d) / "perm"} {reason} (mutes the member for the specified time)
@@ -101,7 +101,6 @@
 ## Commands in the works:
 - invites {@member} (UNDONE)
 - canvas (UNDONE)
-- warn (UNDONE, need option to remove warns)
 
 
 ## Known Bugs:
@@ -123,5 +122,6 @@
 - Banning System
 - Economy System
 - Music System
+- Link Detection System
 
 ## More features coming soon!
