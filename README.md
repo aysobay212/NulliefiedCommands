@@ -12,11 +12,14 @@
 - xp_on_message: arguments: value (will change the xp given on message 1-50 default 5)
 - initial_xp: arguments: value (will change xp given to new members 0-100 default 0)
 - level_multiplier: arguments: value (will change the xp multiplier on each level up default 1.5 0-10)
+- ban_after_infractions: arguments: value (will change the amount of infractions needed to get banned.)
 - rankup_message: arguments: message (<USERNAME> will mention the member and <LEVEL> will be replaced with the new member's rank)
 - ranking_system: arguments: value (on / off)
 - welcome_messages: arguments: value (on / off will enable the welcome / leave messages)
 - swearing: arguments: value (on/ off will enable swearing)
-- economy: arguments: value (on / off will enable / disable economy system)
+- economy_system: arguments: value (on / off will enable / disable economy system)
+- delete_links: argumnts: value (on / off will enable / disable the link detector)
+- detect_ghost_pings: arguments: value (on / off will enable / disable the detect ghost-ping system)
 - prefix: arguments: value (length of prefix must be <= 2)
 - Change settings using the setting (setting) (value) command!
  
