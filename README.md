@@ -1,4 +1,4 @@
-# VERSION 0.2 HAS BEEN RELEASED
+# VERSION 1.0 HAS BEEN RELEASED
 
 ## BOT INVITE LINK : https://discord.com/api/oauth2/authorize?client_id=815039994988068944&permissions=8&scope=bot
 ## Bot created by: adam7100#7825 and aysob_ay212#7626  
@@ -28,21 +28,22 @@
 
 ## Moderation Commands:
 - snipe (Shows the last deleted message in the server)
-- clear \[count\] \[@member\] (clears amount of messages)
+- clear [count] [@member] (clears a specific amount of messages)
 - kick {@member} {reason} (kicks the specified member from the server)
 - ban {@member} {time (example: 5s|m|h|d) / "perm"} {reason} (bans the specified member from the server for the specified time.)
 - mute {@member} {time (example: 5s|m|h|d) / "perm"} {reason} (mutes the member for the specified time)
 - settings (shows the servers settings)
 - setting {setting} {value} (changes {setting} to {value} (type !settings to see all settings) )
-- unban {NAME#DISCRIMINATOR} (unbans the specified member)
+- unban {NAME#DISCRIMINATOR / ID} (unbans the specified member)
 - reactionrole {channel} {message id} {role} {emoji} {remove role on reaction role (on/off)} (will create a reaction role for the message id specified)
-- removereactionrole {message_id} {emoji} (will remove the reactionrole)
-- mute {@member} {time (time(day/seconds/minutes)) / "perm"} {reason (optional)} (will mute the member)
-- ban {@member} {time (time(day/seconds/minutes)) / "perm"} {reason (optional)} (will ban the member)
+- removereactionrole {message_id} {emoji} (Will delete the specified reaction role)
 - giveaway (starts a giveaway)
 - reactionroles (shows all the reaction roles in the current guild)
 - quickgiveaway {winners} {time (example: 5s|m|h|d)} {prize} (aliases=qgiveaway)
 - unmute {@member} {reason (optional)} (unmutes the member)
+- warn {@member} {reason} (warns the member)
+- infractions {@member} (shows the member's infractions)
+- removeinfraction {@member} {index} (alias: ri, removes a warning from the member at the specified index)
 - ticket (creates a ticket)
 - closeticket (closes the ticket)
 
@@ -123,5 +124,6 @@
 - Economy System
 - Music System
 - Link Detection System
+- Anti Ghost-Ping System
 
 ## More features coming soon!
