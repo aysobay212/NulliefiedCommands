@@ -80,6 +80,7 @@
 - hack {@member} (shows the member's "email and password")
 - ppsize {@member} (shows {@member}'s ppsize)
 - status (shows the current bot status)
+-botinfo (shows info about the bot)
 
 
 <br />
