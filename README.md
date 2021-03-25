@@ -97,7 +97,7 @@
 
 ## NSFW Commands:
 - boobies (NSFW ONLY)
-- butt (NSFW ONLY)
+- butt (NSFW ONLY) (This command is currently disabled.)
 
 
 <br />
