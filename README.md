@@ -8,6 +8,7 @@
 # Current Settings:
 - welcome_message : arguments: message (<SERVERNAME> will be replaced with the server's name <USERNAME> will mention the member and <MEMBERCOUNT> will show the server member count)
 - leave_message: arguments: message (Same as welcome_message)
+- birthday_log: arguments: channel (will send member birthday announcements there)
 - member_log: arguments: channel (Will send member leave / member join messages in that channel)
 - xp_on_message: arguments: value (will change the xp given on message 1-50 default 5)
 - initial_xp: arguments: value (will change xp given to new members 0-100 default 0)
@@ -80,7 +81,8 @@
 - hack {@member} (shows the member's "email and password")
 - ppsize {@member} (shows {@member}'s ppsize)
 - status (shows the current bot status)
--botinfo (shows info about the bot)
+- botinfo (shows info about the bot)
+- setbirthday (starts the birthday setup)
 
 
 <br />
@@ -129,5 +131,6 @@
 - Music System
 - Link Detection System
 - Anti Ghost-Ping System
+- Birthday Announcements System
 
 ## More features coming soon!
