@@ -13,7 +13,7 @@
 - xp_on_message: arguments: value (will change the xp given on message 1-50 default 5)
 - initial_xp: arguments: value (will change xp given to new members 0-100 default 0)
 - level_multiplier: arguments: value (will change the xp multiplier on each level up default 1.5 0-10)
-- ban_after_infractions: arguments: value (will change the amount of infractions needed to get banned.)
+- ban_after_infractions: arguments: value (will change the amount of infractions needed to get banned. 1-25)
 - rankup_message: arguments: message (<USERNAME> will mention the member and <LEVEL> will be replaced with the new member's rank)
 - ranking_system: arguments: value (on / off)
 - welcome_messages: arguments: value (on / off will enable the welcome / leave messages)
