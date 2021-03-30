@@ -64,7 +64,7 @@
 - disconnect (disconnects the bot from the channel)
 - stop (pauses the currently playing song)
 - skip (skips to the next song in the queue)
-- volume {volume 1-100} (UNDONE)
+- volume {volume 1-100} (Changes the song volume.)
 
 
 <br />
