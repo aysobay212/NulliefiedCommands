@@ -85,7 +85,7 @@
 - status (shows the current bot status)
 - botinfo (shows info about the bot)
 - setbirthday (starts the birthday setup)
-- pinglog (shows a char of pings from the last 10 hours)
+- pinglog (shows a chart of pings from the last 10 hours)
 
 
 <br />
