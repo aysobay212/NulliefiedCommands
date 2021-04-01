@@ -86,6 +86,7 @@
 - botinfo (shows info about the bot)
 - setbirthday (starts the birthday setup)
 - pinglog (shows a chart of pings from the last 10 hours)
+- format {Command name} (shows the command's format)
 
 
 <br />
