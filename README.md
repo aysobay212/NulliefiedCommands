@@ -72,6 +72,7 @@
 
 
 ## Miscellaneous Commands:
+- tictactoe {@member} (starts a tictactoe match against that member.)
 - nuke (deletes all the messages in the current channel)
 - sadquote (shows a sad quote)
 - darkjoke (sends a dark joke)
